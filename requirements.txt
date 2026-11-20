@@ -1,0 +1,10 @@
+pandas>=3.0
+numpy
+matplotlib
+seaborn
+plotly
+kaleido
+squarify
+pywaffle
+pypalettes
+jupyter
